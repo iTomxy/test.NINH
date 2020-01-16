@@ -32,5 +32,5 @@ MNIST, zooming into [224, 224, 3].
 
 # References
 
-1. [Simultaneous Feature Learning and Hash Coding with Deep Neural Networks Hanjiang](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Lai_Simultaneous_Feature_Learning_2015_CVPR_paper.html)
+1. [Simultaneous Feature Learning and Hash Coding with Deep Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Lai_Simultaneous_Feature_Learning_2015_CVPR_paper.html)
 2. [HYPJUDY/caffe-dnnh](https://github.com/HYPJUDY/caffe-dnnh)
