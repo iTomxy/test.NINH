@@ -1,6 +1,7 @@
 # test.NINH
 
-reimplement the network architecture of NINH[1] in TensorFlow.
+reimplement the network architecture of **NINH**[1] in TensorFlow,
+testing with MNIST classification.
 
 # Environment
 
